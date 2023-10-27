@@ -1,4 +1,4 @@
-<img width="1512" alt="image" src="https://github.com/SEACrowd/.github/assets/25114282/c91871c9-3656-44da-aa49-8f0308ac3072">## Hello! 👋
+## Hello! 👋
 
 SEACrowd is a community movement project aimed at gathering and standardizing NLP resources for South-East Asian languages. 
 This movement is co-initialized by SEA researchers and practitioners across various institution.
