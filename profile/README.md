@@ -1,4 +1,4 @@
-## Hello! 👋
+<img width="1512" alt="image" src="https://github.com/SEACrowd/.github/assets/25114282/c91871c9-3656-44da-aa49-8f0308ac3072">## Hello! 👋
 
 SEACrowd is a community movement project aimed at gathering and standardizing NLP resources for South-East Asian languages. 
 This movement is co-initialized by SEA researchers and practitioners across various institution.
@@ -25,10 +25,14 @@ In this task, you will search for prior research that did not make their data op
 
 #### 🔓 Task 4: Opening Your Private NLP Dataset of SEA Languages
 
-If you have previous work with closed data (or have been contacted by us thanks to Task 3😉), you can release your data and log it with us. The data will still be owned by you and tied to your previous work, as we are simply creating a catalog of it.
+If you have previous work with closed data (or have been contacted by us thanks to Task 3 😉), you can release your data and log it with us. The data will still be owned by you and tied to your previous work, as we are simply creating a catalog of it.
 
 ### Points
 
 Each confirmed contribution will be rewarded with points. At the moment, we are finalizing the points system. A general rule of thumb is that the more complex the task is, the higher the number of points it will earn you. Since our goal is to open access to as many NLP datasets as possible, releasing your own private data should earn you a substantial number of points, especially if the languages are rare and the data quality is superb.
 
-Once your points reach certain thresholds (TBD), you will be rewarded with SWAG and co-authorship.
+Once your points reach certain thresholds (TBD), you will be rewarded with merchandise and co-authorship.
+
+### Communication Channels
+
+Join us in [Discord](https://discord.gg/XXRHFuvkTA) or [Google Groups](https://groups.google.com/u/0/g/seacrowd) to keep in touch and be the first to know the updates!
