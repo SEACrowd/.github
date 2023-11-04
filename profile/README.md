@@ -46,7 +46,7 @@ Each confirmed contribution will be rewarded with points. The details of the con
 
 For example, since our goal is to open access to as many NLP datasets as possible, releasing your own private data should earn you a substantial number of points, especially if the languages are rare and the data quality is superb.
 
-Once your points reach 20, you will be rewarded with **merchandise and co-authorship**. For co-authorship, the number of your contribution points will decide your position in the authorship list in our upcoming publication.
+Once your points reach 20, you will be rewarded with **merchandise and co-authorship**. For co-authorship, the number of your contribution points will determine your position in the authorship list in our upcoming publication.
 
 ## Communication Channels
 
