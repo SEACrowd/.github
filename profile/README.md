@@ -17,7 +17,7 @@ Specifically, we have identified four tasks for contributions:
 
 ### 🗃️ Task 1: Submitting Metadata for Existing Public Datasets
 
-You can submit detailed metadata for existing datasets through [this form](https://form.jotform.com/team/232952680898069/seacrowd-sea-datasets). You will provide important information such as data license, size, language and dialect, annotation method, and so on. The approved datasheets will show up and indexed in [SEACrowd Catalogue](https://seacrowd.github.io/seacrowd-catalogue/), which is still under construction for now.
+You can submit detailed metadata for existing datasets through [this form](https://form.jotform.com/team/232952680898069/seacrowd-sea-datasets). You will provide important information such as data license, size, language and dialect, annotation method, and so on. The approved datasheets will show up and indexed in [this sheet](https://docs.google.com/spreadsheets/d/1ibbywsC1tQ_sLPX8bUAjC-vrTrUqZgZA46W_sxWw4Ss/edit?usp=sharing). [SEACrowd Catalogue](https://seacrowd.github.io/seacrowd-catalogue/) is still under construction for now.
 
 ### 🖥️ Task 2: Building DataLoader
 
