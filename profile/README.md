@@ -42,6 +42,7 @@ For sure. You can message one of the initiators to learn about the details.
 Generally, you can contribute as much as you want and as little as you want! However, in order to reward contributors fairly, we came up with a contribution point system.
 
 **Contribution Point**
+
 Each confirmed contribution will be rewarded with points. The details of the contribution point system are provided in [our Data Hub](https://github.com/SEACrowd/seacrowd-datahub/blob/master/POINTS.md). A general rule of thumb is that the more complex the task is, the higher the number of points it will earn you.
 
 For example, since our goal is to open access to as many NLP datasets as possible, releasing your own private data should earn you a substantial number of points, especially if the languages are rare and the data quality is superb.
