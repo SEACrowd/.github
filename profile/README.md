@@ -49,6 +49,8 @@ For example, since our goal is to open access to as many NLP datasets as possibl
 
 Once your points reach 20, you will be rewarded with **merchandise and co-authorship**. For co-authorship, the number of your contribution points will determine your position in the authorship list in our upcoming publication.
 
+Contribution point tracking is now live at [this sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDZtJjA6i7JsxS5IlMtVuwOYjr2Pbl_b47yMSH4aAdHDBIpf-CiJQjNQAzcJPEu_aE7kwH4ZvKvPm0/pubhtml?gid=225616890&single=true)!
+
 ## Communication Channels
 
 Join us in [Discord](https://discord.gg/XXRHFuvkTA) or [SEACrowd mailing list via Google Groups](https://groups.google.com/u/0/g/seacrowd) to keep in touch and be the first to know the updates!
