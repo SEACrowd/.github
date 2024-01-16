@@ -21,7 +21,7 @@ You can submit detailed metadata for existing datasets through [this form](https
 
 ### 🖥️ Task 2: Building DataLoader
 
-From the approved datasheets from the previous task, you can help us build HuggingFace’s dataset dataloader to ensure that all datasets in SEACrowd are standardized in terms of formatting. You can take a look at the [guide](https://github.com/SEACrowd/seacrowd-datahub/blob/master/CONTRIBUTING.md) and [examples](https://github.com/SEACrowd/seacrowd-datahub/tree/master/seacrowd/sea_datasets) in [SEACrowd Data Hub](https://github.com/SEACrowd/seacrowd-datahub).
+From the approved datasheets from the previous task, you can help us build HuggingFace’s dataset dataloader to ensure that all datasets in SEACrowd are standardized in terms of formatting. You can take a look at the [guide](https://github.com/SEACrowd/seacrowd-datahub/blob/master/CONTRIBUTING.md) and [examples](https://github.com/SEACrowd/seacrowd-datahub/tree/master/seacrowd/sea_datasets) in [SEACrowd Data Hub](https://github.com/SEACrowd/seacrowd-datahub). We will also ping the taken dataloader issues after 2 weeks of inactivity in case there's any trouble.
 
 ### 🔍 Task 3: Identifying Private AI Datasets of SEA Languages, Cultures, and/or Regions
 
