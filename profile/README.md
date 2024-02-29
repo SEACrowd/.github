@@ -21,7 +21,7 @@ You can submit detailed metadata for existing datasets through [this form](https
 
 ### 🖥️ Task 2: Building DataLoader
 
-From the approved datasheets from the previous task, you can help us build HuggingFace’s dataset dataloader to ensure that all datasets in SEACrowd are standardized in terms of formatting. You can take a look at the [guide](https://github.com/SEACrowd/seacrowd-datahub/blob/master/CONTRIBUTING.md) and [examples](https://github.com/SEACrowd/seacrowd-datahub/tree/master/seacrowd/sea_datasets) in [SEACrowd Data Hub](https://github.com/SEACrowd/seacrowd-datahub). We will also ping the taken dataloader issues after 2 weeks of inactivity in case there's any trouble.
+From the approved datasheets from the previous task, you can help us build HuggingFace’s dataset dataloader to ensure that all datasets in SEACrowd are standardized in terms of formatting. You can take a look at the [daguide](https://github.com/SEACrowd/seacrowd-datahub/blob/master/DATALOADER.md) and [examples](https://github.com/SEACrowd/seacrowd-datahub/tree/master/seacrowd/sea_datasets) in [SEACrowd Data Hub](https://github.com/SEACrowd/seacrowd-datahub). We will also ping the taken dataloader issues after 2 weeks of inactivity in case there's any trouble.
 
 ### 🔍 Task 3: Identifying Private AI Datasets of SEA Languages, Cultures, and/or Regions
 
@@ -31,7 +31,7 @@ In this task, you will search for prior research publications that did not make 
 
 ### 🔓 Task 4: Opening Your Private AI Dataset of SEA
 
-If you have previous work with closed data (or have been contacted by us thanks to Task 3 :wink:), you can release your data and log it with us [here](https://form.jotform.com/team/232952680898069/seacrowd-sea-datasets). The data will still be owned by you and tied to your previous work, as we are simply creating a catalog of it.
+If you have previous work with closed data (or have been contacted by us thanks to Task 3 :wink:), you can release your data and log it with us [here](https://form.jotform.com/team/232952680898069/seacrowd-sea-datasets). The data will still be owned by you and tied to your previous work, as we simply create a catalog of it.
 
 ## Is there any other way to help?
 
