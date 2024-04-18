@@ -19,13 +19,13 @@ Specifically, we have identified four tasks for contributions:
 
 You can submit detailed metadata for existing datasets through [this form](https://form.jotform.com/team/232952680898069/seacrowd-sea-datasets). You will provide important information such as data license, size, language and dialect, annotation method, and so on. The approved datasheets as well as under review datasheets will show up and indexed in [this sheet](https://docs.google.com/spreadsheets/d/1ibbywsC1tQ_sLPX8bUAjC-vrTrUqZgZA46W_sxWw4Ss/edit?usp=sharing). [SEACrowd Catalogue](https://seacrowd.github.io/seacrowd-catalogue/) is still under construction for now.
 
-Update (2024/03/30): The call for contribution for public datasheet has ended. Form submissions are still recorded, but contribution points are no longer given. Reviewing effort will be allocated to dataloader implementations and private datasheets for now. We will continue reviewing the public datasheet submissions for SEA after SEACrowd ends.
+> Update (2024/03/30): The call for contribution for public datasheet has ended. Form submissions are still recorded, but contribution points are no longer given. Reviewing effort will be allocated to dataloader implementations and private datasheets for now. We will continue reviewing the public datasheet submissions for SEA after SEACrowd ends.
 
 ### 🖥️ Task 2: Building DataLoader
 
 From the approved datasheets from the previous task, you can help us build HuggingFace’s dataset dataloader to ensure that all datasets in SEACrowd are standardized in terms of formatting. You can take a look at the [dataloader guide](https://github.com/SEACrowd/seacrowd-datahub/blob/master/DATALOADER.md) and [examples](https://github.com/SEACrowd/seacrowd-datahub/tree/master/seacrowd/sea_datasets) in [SEACrowd Data Hub](https://github.com/SEACrowd/seacrowd-datahub). We will also ping the taken dataloader issues after 2 weeks of inactivity in case there's any trouble.
 
-Update (2024/03/30): The call for contribution for dataloader implementation will end on 15 May 2024.
+> Update (2024/03/30): The call for contribution for dataloader implementation will end on 15 May 2024.
 
 ### 🔍 Task 3: Identifying Private AI Datasets of SEA Languages, Cultures, and/or Regions
 
@@ -33,13 +33,13 @@ Unfortunately, some prior AI research on SEA languages is still hidden behind cl
 
 In this task, you will search for prior research publications that did not make their data open and fill out [this form](https://form.jotform.com/team/232952680898069/seacrowd-paper-with-private-dataset). Our team will contact the reported work to negotiate the opening of their data with us.
 
-Update (2024/03/30): The call for contribution for private datasheet will end on 15 May 2024.
+> Update (2024/03/30): The call for contribution for private datasheet will end on 15 May 2024.
 
 ### 🔓 Task 4: Opening Your Private AI Dataset of SEA
 
 If you have previous work with closed data (or have been contacted by us thanks to Task 3 :wink:), you can release your data and log it with us [here](https://form.jotform.com/team/232952680898069/seacrowd-sea-datasets). The data will still be owned by you and tied to your previous work, as we simply create a catalog of it.
 
-Update (2024/03/30): The call for contribution for opening private dataset will end on 15 May 2024.
+> Update (2024/03/30): The call for contribution for opening private dataset will end on 15 May 2024.
 
 ## Is there any other way to help?
 
