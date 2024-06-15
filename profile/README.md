@@ -63,7 +63,7 @@ Find our experiment repository at [`SEACrowd/seacrowd-experiments`](https://gith
 
 #### Timeline
 
-<img width="900" alt="Timeline" src="https://github.com/SEACrowd/.github/blob/main/profile/assets/seacrowd-timeline.png?raw=true">
+<img width="750" alt="Timeline" src="https://github.com/SEACrowd/.github/blob/main/profile/assets/seacrowd-timeline.png?raw=true">
 
 #### How did they become contributors?
 
@@ -79,4 +79,4 @@ Once their points reached 20, they would be rewarded with **merchandise and co-a
 
 The contribution point tracking for this past project is available at [this sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDZtJjA6i7JsxS5IlMtVuwOYjr2Pbl_b47yMSH4aAdHDBIpf-CiJQjNQAzcJPEu_aE7kwH4ZvKvPm0/pubhtml?gid=225616890&single=true)!
 
-<img width="900" alt="Contribution Progress" src="https://github.com/SEACrowd/.github/blob/main/profile/assets/seacrowd-contribution-progress.png?raw=true">
+<img width="750" alt="Contribution Progress" src="https://github.com/SEACrowd/.github/blob/main/profile/assets/seacrowd-contribution-progress.png?raw=true">
