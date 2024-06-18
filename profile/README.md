@@ -51,7 +51,7 @@ Join us in [Discord](https://discord.gg/XXRHFuvkTA) or [SEACrowd mailing list vi
 
 ## I'm still confused. Could you please help me?
 
-Definitely. Please feel free to ask in `#general` on Discord or message one of the initiators so we can help you. :wink:
+Definitely. Please feel free to ask in `#general` on Discord or message one of the moderators so we can help you. :wink:
 
 ## Citation
 
