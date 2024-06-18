@@ -1,3 +1,5 @@
+<img width="100%" alt="SEACrowd Logo" src="https://github.com/SEACrowd/.github/blob/main/profile/assets/seacrowd-email-banner-without-logo.png?raw=true">
+
 # Welcome to SEACrowd! 👋
 
 SEACrowd is a community movement project aimed at centralizing and standardizing AI resources for Southeast Asian languages, cultures, and/or regions.
