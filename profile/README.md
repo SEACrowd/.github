@@ -5,6 +5,8 @@ This movement is co-initiated by SEA researchers and practitioners from various 
 
 See what SEA indigenous and non-indigenous languages we accept [here](https://github.com/SEACrowd/seacrowd-datahub/blob/master/LANGUAGES.md).
 
+> Our first publication is out: ["SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages"](https://arxiv.org/pdf/2406.10118)!
+
 ## Why Is It Important?
 
 It is essential to greatly increase the accessibility of SEA datasets, promote research in SEA languages and cultures, as well as build more AI models that represent SEA.
@@ -52,6 +54,8 @@ Definitely. Please feel free to ask in `#general` on Discord or message one of t
 ## Past Projects
 
 ### SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages
+
+> Check out [our paper](https://arxiv.org/pdf/2406.10118)!
 
 Our first collaboration ran from 1 November 2023 to 15 June 2024 with a total of [86 contributors](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDZtJjA6i7JsxS5IlMtVuwOYjr2Pbl_b47yMSH4aAdHDBIpf-CiJQjNQAzcJPEu_aE7kwH4ZvKvPm0/pubhtml?gid=225616890&single=true). We managed to consolidate 498 datasheets in SEACrowd Catalogue ([web](https://seacrowd.github.io/seacrowd-catalogue/)/[csv](https://docs.google.com/spreadsheets/d/1ibbywsC1tQ_sLPX8bUAjC-vrTrUqZgZA46W_sxWw4Ss/edit?usp=sharing)) and standardize 399 dataloaders in [SEACrowd Data Hub](https://github.com/SEACrowd/seacrowd-datahub/), covering 980 out of 1308 SEA languages.
 
