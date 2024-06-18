@@ -63,8 +63,6 @@ Through our SEACrowd benchmarks, we assess the quality of AI models on 36 indige
 
 Find our experiment repository at [`SEACrowd/seacrowd-experiments`](https://github.com/SEACrowd/seacrowd-experiments).
 
-> Note: The URL to our paper is coming soon!
-
 #### Timeline
 
 <img width="750" alt="Timeline" src="https://github.com/SEACrowd/.github/blob/main/profile/assets/seacrowd-timeline.png?raw=true">
