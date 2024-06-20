@@ -18,9 +18,9 @@ It is essential to greatly increase the accessibility of SEA datasets, promote r
 | URL | Description |
 |------------------|---------------------|
 | [Paper](https://arxiv.org/pdf/2406.10118) | Our "SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages" paper on Arxiv |
-| [Github and Landing Page](https://github.com/SEACrowd) | Introduction to SEACrowd |
+| [Landing Page](https://github.com/SEACrowd) | Introduction to SEACrowd |
 | SEACrowd Catalogue ([web](https://seacrowd.github.io/seacrowd-catalogue/)/[csv](https://docs.google.com/spreadsheets/d/1ibbywsC1tQ_sLPX8bUAjC-vrTrUqZgZA46W_sxWw4Ss/edit?usp=sharing)) | Centralized publicly available datasheets |
-| [SEACrowd Data Hub](https://github.com/SEACrowd/seacrowd-datahub/) | Standardized dataloaders |
+| SEACrowd Data Hub ([github](https://github.com/SEACrowd/seacrowd-datahub/)/[pip](https://pypi.org/project/seacrowd/)) | Standardized dataloaders & schema library |
 | [SEACrowd Experiments](https://github.com/SEACrowd/seacrowd-experiments) | Experiment repository for SEACrowd NLP, VL, & speech benchmarks, translationese vs. naturalness assessment, language equity, language prioritization, etc. |
 | [HuggingFace Collection](https://huggingface.co/collections/SEACrowd/seacrowd-a-multilingual-multimodal-data-hub-and-benchmark-s-667127ad938266072cdc46be) | Our fine-tuned translationese classifier & train/test data |
 
