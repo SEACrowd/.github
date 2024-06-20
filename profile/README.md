@@ -13,9 +13,20 @@ See what SEA indigenous and non-indigenous languages we accept [here](https://gi
 
 It is essential to greatly increase the accessibility of SEA datasets, promote research in SEA languages and cultures, as well as build more AI models that represent SEA.
 
+## Important URLs
+
+| URL | Description |
+|------------------|---------------------|
+| [Paper](https://arxiv.org/pdf/2406.10118) | Our "SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages" paper on Arxiv |
+| [Github and Landing Page](https://github.com/SEACrowd) | Introduction to SEACrowd |
+| SEACrowd Catalogue ([web](https://seacrowd.github.io/seacrowd-catalogue/)/[csv](https://docs.google.com/spreadsheets/d/1ibbywsC1tQ_sLPX8bUAjC-vrTrUqZgZA46W_sxWw4Ss/edit?usp=sharing)) | Centralized publicly available datasheets |
+| [SEACrowd Data Hub](https://github.com/SEACrowd/seacrowd-datahub/) | Standardized dataloaders |
+| [SEACrowd Experiments](https://github.com/SEACrowd/seacrowd-experiments) | Experiment repository for SEACrowd NLP, VL, & speech benchmarks, translationese vs. naturalness assessment, language equity, language prioritization, etc. |
+| [HuggingFace Collection](https://huggingface.co/collections/SEACrowd/seacrowd-a-multilingual-multimodal-data-hub-and-benchmark-s-667127ad938266072cdc46be) | Our fine-tuned translationese classifier & train/test data |
+
 ## On-going Projects
 
-We will start discussing our next directions by the end of June 2024. Stay tuned via [SEACrowd's Discord channel](https://discord.gg/XXRHFuvkTA)!
+We will start discussing our next directions by the end of June or early July 2024. Stay tuned via [SEACrowd's Discord channel](https://discord.gg/XXRHFuvkTA)!
 
 Check out our [past projects](#past-projects).
 
