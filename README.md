@@ -13,7 +13,7 @@ All important URLs in SEACrowd.
 - Public datasheets | [Form](https://form.jotform.com/team/232952680898069/seacrowd-sea-datasets), [review](https://docs.google.com/spreadsheets/d/1aIAwzMgDdXQUr2A_A_sC3ShEjQky-gYEzqB1TbPzdjA/edit?usp=sharing)
 - Private datasets | [Form](https://form.jotform.com/team/232952680898069/seacrowd-paper-with-private-dataset), [review](https://docs.google.com/spreadsheets/d/16J2U7lPGNDxmPe7NR1q8PvY0Po_O2l8D_jo3qm53Qek/edit?usp=sharing)
 - Dataloader | [Guide](https://github.com/SEACrowd/seacrowd-datahub/blob/master/DATALOADER.md), [assignment](https://github.com/orgs/SEACrowd/projects/1), [PR review](https://github.com/SEACrowd/seacrowd-datahub/pulls)
-- Catalogue | [Github.io](https://seacrowd.github.io/seacrowd-catalogue/), [Monitor](https://docs.google.com/spreadsheets/d/1ibbywsC1tQ_sLPX8bUAjC-vrTrUqZgZA46W_sxWw4Ss/edit?usp=sharing)
+- Catalogue | [Github.io](https://seacrowd.github.io/seacrowd-catalogue/), [CSV](https://docs.google.com/spreadsheets/d/1ibbywsC1tQ_sLPX8bUAjC-vrTrUqZgZA46W_sxWw4Ss/edit?usp=sharing)
 
 ### Past Project(s)
 
