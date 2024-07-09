@@ -1,4 +1,4 @@
-# SEACrowd Profile
+# SEACrowd
 
 All important URLs in SEACrowd.
 
