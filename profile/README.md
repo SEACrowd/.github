@@ -1,70 +1,77 @@
 <img width="100%" alt="SEACrowd Logo" src="https://github.com/SEACrowd/.github/blob/main/profile/assets/seacrowd-email-banner-without-logo.png?raw=true">
 
-# Welcome to SEACrowd! 👋
+# Welcome to SEACrowd! :wave:
 
-SEACrowd is a community movement project aimed at centralizing and standardizing AI resources for Southeast Asian languages, cultures, and/or regions.
-This movement is co-initiated by SEA researchers and practitioners from various institutions.
+[SEACrowd](https://seacrowd.github.io/) is a community dedicated to bridging the gap between multilingual AI and Southeast Asian AI and enhancing the quality of AI research and researchers in the region. This initiative is co-founded by Southeast Asian researchers and practitioners from diverse institutions.
 
-See what SEA indigenous and non-indigenous languages we accept [here](https://github.com/SEACrowd/seacrowd-datahub/blob/master/LANGUAGES.md).
+> See what indigenous and non-indigenous languages are under our study [here](https://github.com/SEACrowd/seacrowd-datahub/blob/master/LANGUAGES.md).
 
-> Our first publication is out: ["SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages"](https://arxiv.org/pdf/2406.10118)!
+Our members have been engaged in AI research in Southeast Asia since 2016. Collectively, our research efforts have transformed the landscape of AI in the region, providing other AI practitioners with access to SEA resources, models, and insights, thereby advancing AI development in Southeast Asia.
 
-## Why Is It Important?
+> Explore the complete list of our contributors' [SEA-related publications](https://docs.google.com/spreadsheets/d/1rtQ42Q-ehfJ4v5Xc_xh-ibzfDvz7i53VrOEWTnjIuIo/pubhtml?gid=149756427&single=true)!
 
+## ✔️ Past Projects
+
+- 11/2023 to 06/2024. [**SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages**](https://arxiv.org/pdf/2406.10118). Accepted in EMNLP 2024. [[Announcement]](https://seacrowd.github.io/seacrowd-emnlp-2024/)
+
+## 🤔 What's Next?
+
+### 🖼️ SEA Visual Instruction
+
+We will launch our new project in early Nov 2024 (11/2024). [Stay tuned!](https://seacrowd.github.io/contact/)
+
+### 🌏 Special Interest Group in Southeast Asian NLP (SIGSEA)
+
+SIGSEA aims to change that by promoting research, collaboration, and sharing updates on Southeast Asian NLP. This way, in the future, we also can hold our own SEA workshops & events in ACL conferences! 💪
+
+We're collecting expressions of interest for membership. As a member, you'll receive regular updates on research, events, and opportunities in the region.
+
+Everyone can join (no need for ACL membership). **Sign up today to join SIGSEA via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfNiQ6xSq3yMDMITKbmRvkvjQkznpgO3BFfOHa0957sGnmsbw/viewform)! 🫶**
+
+### 🧑‍🎓 SEACrowd Apprentice (Pilot) Program
+
+On-going since 08/2024.
+
+This program targets early-career AI enthusiasts from underserved Southeast Asian communities, who are looking to gain their first substantial research experience. Many face challenges such as limited access to research tools, mentorship, and AI developments.
+
+Our program addresses these gaps by providing research problems for participants to solve in small teams, guided by experienced mentors. Through hands-on projects and learning key concepts, participants work toward writing a publication for top AI conferences like ACL. The program also emphasizes critical thinking, collaboration, and academic writing to prepare participants for success in AI research.
+
+# Resources in SEA
+
+Southeast Asia is home to more than 1,000 native languages. Nevertheless, Southeast Asian NLP, vision-language, and speech processing is underrepresented in the research community, and one of the reasons is the lack of access to public datasets ([Aji et al., 2022](https://aclanthology.org/2022.acl-long.500/)).
 It is essential to greatly increase the accessibility of SEA datasets, promote research in SEA languages and cultures, as well as build more AI models that represent SEA.
 
-## Important URLs
+We consolidate a comprehensive resource hub, [**SEACrowd Catalogue**](https://seacrowd.github.io/seacrowd-catalogue/) that fills the resource gap in nearly 1,000 Southeast Asian (SEA) languages across three modalities. Find their standardized dataloaders in the [**SEACrowd Data Hub**](https://github.com/SEACrowd/seacrowd-datahub).
 
-| URL | Description |
-|------------------|---------------------|
-| [Paper](https://arxiv.org/pdf/2406.10118) | Our "SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages" paper on Arxiv |
-| [Landing Page](https://github.com/SEACrowd) | Introduction to SEACrowd |
-| SEACrowd Catalogue ([web](https://seacrowd.github.io/seacrowd-catalogue/)/[csv](https://docs.google.com/spreadsheets/d/1ibbywsC1tQ_sLPX8bUAjC-vrTrUqZgZA46W_sxWw4Ss/edit?usp=sharing)) | Centralized publicly available datasheets |
-| SEACrowd Data Hub ([github](https://github.com/SEACrowd/seacrowd-datahub/)/[pip](https://pypi.org/project/seacrowd/)) | Standardized dataloaders & schema library |
-| [SEACrowd Experiments](https://github.com/SEACrowd/seacrowd-experiments) | Experiment repository for SEACrowd NLP, VL, & speech benchmarks, translationese vs. naturalness assessment, language equity, language prioritization, etc. |
-| [HuggingFace Collection](https://huggingface.co/collections/SEACrowd/seacrowd-a-multilingual-multimodal-data-hub-and-benchmark-s-667127ad938266072cdc46be) | Our fine-tuned translationese classifier & train/test data |
+Furthermore, we also build the [**SEACrowd Benchmarks**](https://github.com/SEACrowd/seacrowd-experiments) to assess the quality of AI models on 36 indigenous languages across 13 tasks, offering valuable insights into the current AI landscape in SEA. Furthermore, we propose strategies to facilitate greater AI advancements, maximizing potential utility and resource equity for the future of AI in SEA.
 
-## On-going Projects
+🤔 More info on [our website](https://seacrowd.github.io/resources/).
 
-We will start discussing our next directions by the end of June or early July 2024. Stay tuned via [SEACrowd's Discord channel](https://discord.gg/XXRHFuvkTA)!
+## Contributing to [SEACrowd Catalogue](https://seacrowd.github.io/seacrowd-catalogue/) & [Data Hub](https://github.com/SEACrowd/seacrowd-datahub)
 
-Check out our [past projects](#past-projects).
+Everyone can join and contribute to this initiative.
 
-## Contributing to SEACrowd
-
-Everyone can join and contribute to this initiative. Specifically, we have identified four tasks for contributions:
-
-### 🗃️ Task 1: Submitting Metadata for Existing Public Datasets
+### :card_box: Task 1: Submitting Datasheet for Existing Public Datasets
 
 You can submit detailed metadata for existing datasets through [this form](https://form.jotform.com/team/232952680898069/seacrowd-sea-datasets). You will provide important information such as data license, size, language and dialect, annotation method, and so on. The approved datasheets as well as under review datasheets will show up and indexed in SEACrowd Catalogue ([web](https://seacrowd.github.io/seacrowd-catalogue/)/[csv](https://docs.google.com/spreadsheets/d/1ibbywsC1tQ_sLPX8bUAjC-vrTrUqZgZA46W_sxWw4Ss/edit?usp=sharing)).
 
-### 🖥️ Task 2: Building DataLoader
+### :desktop: Task 2: Building DataLoader
 
-From the approved datasheets from the previous task, you can help us build HuggingFace’s dataset dataloader to ensure that all datasets in SEACrowd are standardized in terms of formatting. You can take a look at the [dataloader guide](https://github.com/SEACrowd/seacrowd-datahub/blob/master/DATALOADER.md) and [examples](https://github.com/SEACrowd/seacrowd-datahub/tree/master/seacrowd/sea_datasets) in [SEACrowd Data Hub](https://github.com/SEACrowd/seacrowd-datahub). We will also ping the taken dataloader issues after 2 weeks of inactivity in case there's any trouble.
+From the approved datasheets from the previous task, you can help us build HuggingFace’s dataset dataloader to ensure that all datasets in SEACrowd are standardized in terms of formatting. You can take a look at the [dataloader guide](https://github.com/SEACrowd/seacrowd-datahub/blob/master/DATALOADER.md) and [examples](https://github.com/SEACrowd/seacrowd-datahub/tree/master/seacrowd/sea_datasets) in SEACrowd Data Hub. We will also ping the taken dataloader issues after 2 weeks of inactivity in case there's any trouble.
 
-### 🔍 Task 3: Identifying Private AI Datasets of SEA Languages, Cultures, and/or Regions
+# I'm still confused. Could you please help me?
 
-Unfortunately, some prior AI research on SEA languages is still hidden behind closed data. Surprisingly, the reason is as simple as the authors not considering releasing the data as an option before!
+Definitely. Please feel free to ask in #discussion-forum so we can help you. :wink:
 
-In this task, you will search for prior research publications that did not make their data open and fill out [this form](https://form.jotform.com/team/232952680898069/seacrowd-paper-with-private-dataset). Our team will contact the reported work to negotiate the opening of their data with us.
+# Other Communication Channels
 
-### 🔓 Task 4: Opening Your Private AI Dataset of SEA
+Join our discussions to keep in touch and be the first to receive the updates!
+- #general
+- [Mailing list](https://groups.google.com/u/0/g/seacrowd)
+- Email: seacrowd.research@gmail.com
+- Repositories: [GitHub](https://github.com/SEACrowd), [HuggingFace](https://huggingface.co/SEACrowd)
 
-If you have previous work with closed data (or have been contacted by us thanks to Task 3 :wink:), you can release your data and log it with us [here](https://form.jotform.com/team/232952680898069/seacrowd-sea-datasets). The data will still be owned by you and tied to your previous work, as we simply create a catalog of it.
-
-## Is there any other way to help?
-
-For sure. You can message one of the initiators to learn about the details.
-
-## Communication Channels
-
-Join us in [Discord](https://discord.gg/XXRHFuvkTA) or [SEACrowd mailing list via Google Groups](https://groups.google.com/u/0/g/seacrowd) to keep in touch and be the first to know the updates!
-
-## I'm still confused. Could you please help me?
-
-Definitely. Please feel free to ask in `#general` on Discord or message one of the moderators so we can help you. :wink:
-
-## Citation
+# Citation
 
 If you are using any resources from SEACrowd, including datasheets, dataloaders, code, etc., please cite [the following publication](https://arxiv.org/pdf/2406.10118):
 
@@ -77,35 +84,3 @@ If you are using any resources from SEACrowd, including datasheets, dataloaders,
       journal={arXiv preprint arXiv: 2406.10118}
 }
 ```
-
-## Past Projects
-
-### SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages
-
-> Check out [our paper](https://arxiv.org/pdf/2406.10118)!
-
-Our first collaboration ran from 1 November 2023 to 15 June 2024 with a total of [86 contributors](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDZtJjA6i7JsxS5IlMtVuwOYjr2Pbl_b47yMSH4aAdHDBIpf-CiJQjNQAzcJPEu_aE7kwH4ZvKvPm0/pubhtml?gid=225616890&single=true). We managed to consolidate 498 datasheets in SEACrowd Catalogue ([web](https://seacrowd.github.io/seacrowd-catalogue/)/[csv](https://docs.google.com/spreadsheets/d/1ibbywsC1tQ_sLPX8bUAjC-vrTrUqZgZA46W_sxWw4Ss/edit?usp=sharing)) and standardize 399 dataloaders in [SEACrowd Data Hub](https://github.com/SEACrowd/seacrowd-datahub/), covering 980 out of 1308 SEA languages.
-
-Through our SEACrowd benchmarks, we assess the quality of AI models on 36 indigenous languages across 13 tasks, offering valuable insights into the current AI landscape in SEA. Furthermore, we propose strategies to facilitate greater AI advancements, maximizing potential utility and resource equity for the future of AI in SEA.
-
-Find our experiment repository at [`SEACrowd/seacrowd-experiments`](https://github.com/SEACrowd/seacrowd-experiments).
-
-#### Timeline
-
-<img width="750" alt="Timeline" src="https://github.com/SEACrowd/.github/blob/main/profile/assets/seacrowd-timeline.png?raw=true">
-
-#### How did they become contributors?
-
-Generally, anyone could contribute as much as they wanted and as little as they wanted! However, in order to reward contributors fairly, we came up with a contribution point system.
-
-**Contribution Point**
-
-Each confirmed contribution was rewarded with points. The details of the contribution point system were provided in [SEACrowd Data Hub](https://github.com/SEACrowd/seacrowd-datahub/blob/master/POINTS.md). A general rule of thumb is that the more complex the task was, the higher the number of points it would earn you.
-
-For example, since our goal was to open access to as many NLP datasets as possible, releasing their own private data should earn them a substantial number of points, especially if the languages were rare and the data quality was superb.
-
-Once their points reached 20, they would be rewarded with **merchandise and co-authorship**. For co-authorship, the number of their contribution points would determine their position in the authorship list in our publication.
-
-The contribution point tracking for this past project is available at [this sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDZtJjA6i7JsxS5IlMtVuwOYjr2Pbl_b47yMSH4aAdHDBIpf-CiJQjNQAzcJPEu_aE7kwH4ZvKvPm0/pubhtml?gid=225616890&single=true)!
-
-<img width="750" alt="Contribution Progress" src="https://github.com/SEACrowd/.github/blob/main/profile/assets/seacrowd-contribution-progress.png?raw=true">
