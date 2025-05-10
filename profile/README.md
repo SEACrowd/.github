@@ -18,7 +18,7 @@ Our members have been engaged in AI research in Southeast Asia since 2016. Colle
 
 ## 🤔 What's Next?
 
-### 🖼️ SEA Visual Instruction (SEA-VL)
+### 🖼️ Southeast Aisa Vision Language Model (SEA-VL)
 
 Following the success of our SEACrowd project, we’re excited to announce SEA-VL, a new open-source initiative to build a SEA-specific vision-language model.
 SEA-VL is a large and ambitious initiative, so we have decided to split it into two phases. In Phase 1 of SEA-VL, we collected self-taken, culturally-relevant images with descriptions about the shared image in the respective local language. This dataset was compiled into an open-access SEA-relevant image dataset, the largest of its kind to date. This dataset will serve as the foundation for Phase 2, where we’ll develop instruction-tuning VL datasets and build a SEA-specific vision language model (VLM) using the constructed dataset.
