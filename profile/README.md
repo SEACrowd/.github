@@ -14,6 +14,8 @@ Our members have been engaged in AI research in Southeast Asia since 2016. Colle
 
 - 11/2023 to 06/2024. [**SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages**](https://arxiv.org/pdf/2406.10118). Accepted in EMNLP 2024. [[Announcement]](https://seacrowd.github.io/seacrowd-emnlp-2024/)
 
+- 10/2024 to 03/203. [**Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia**](https://arxiv.org/pdf/2503.07920). Under Revuew ACL 2025. [**Project Page**](https://seacrowd.github.io/seavl-dataset/)
+
 ## 🤔 What's Next?
 
 ### 🖼️ SEA Visual Instruction (SEA-VL)
@@ -21,8 +23,9 @@ Our members have been engaged in AI research in Southeast Asia since 2016. Colle
 Following the success of our SEACrowd project, we’re excited to announce SEA-VL, a new open-source initiative to build a SEA-specific vision-language model.
 SEA-VL is a large and ambitious initiative, so we have decided to split it into two phases. In Phase 1 of SEA-VL, we collected self-taken, culturally-relevant images with descriptions about the shared image in the respective local language. This dataset was compiled into an open-access SEA-relevant image dataset, the largest of its kind to date. This dataset will serve as the foundation for Phase 2, where we’ll develop instruction-tuning VL datasets and build a SEA-specific vision language model (VLM) using the constructed dataset.
 
-Phase 1 has been wrapped up. [Project Page](https://seacrowd.github.io/seavl-dataset/)
-Phase 2 is up from May 2025 - Feb 2026! [Project Page](https://seacrowd.github.io/seavl-phase2-launch/)
+Phase 1 has been wrapped up. [**Project Page**](https://seacrowd.github.io/seavl-dataset/)
+
+Phase 2 is up from May 2025 - Feb 2026! [**Project Page**](https://seacrowd.github.io/seavl-phase2-launch/)
 
 ### 🌏 Special Interest Group in Southeast Asian NLP (SIGSEA)
 
