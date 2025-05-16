@@ -12,9 +12,9 @@ Our members have been engaged in AI research in Southeast Asia since 2016. Colle
 
 ## ✔️ Past Projects
 
-- 11/2023 to 06/2024. [**SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages**](https://arxiv.org/pdf/2406.10118). Accepted in EMNLP 2024. [[Announcement]](https://seacrowd.github.io/seacrowd-emnlp-2024/)
+- 11/2023 to 06/2024. [**SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages**](https://arxiv.org/pdf/2406.10118). Accepted to EMNLP 2024. [[Announcement]](https://seacrowd.github.io/seacrowd-emnlp-2024/)
 
-- 10/2024 to 03/203. [**Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia**](https://arxiv.org/pdf/2503.07920). Under Revuew ACL 2025. [**Project Page**](https://seacrowd.github.io/seavl-dataset/)
+- 10/2024 to 03/203. [**Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia**](https://arxiv.org/pdf/2503.07920). Accepted to ACL 2025 main conference . [**Project Page**](https://seacrowd.github.io/seavl-dataset/)
 
 ## 🤔 What's Next?
 
